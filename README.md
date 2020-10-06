@@ -5,3 +5,7 @@ To Practice Competitive Programming
 ---
 - Solved 3 Problems on Hackerrank in algorithms sections.
 - Learned about long long int datatype {Range in powers of 10 :- the range is in between (—10^18 to +10^18)}.
+
+### Day 2:
+---
+- Solved 3 Problems on Hackerrank in algorithms and Data Structures section.
