@@ -9,3 +9,7 @@ To Practice Competitive Programming
 ### Day 2:
 ---
 - Solved 3 Problems on Hackerrank in algorithms and Data Structures section.
+
+### Day 3:
+---
+- Solved 3 Problems on Hackerrank in algorithms section.
