@@ -13,3 +13,7 @@ To Practice Competitive Programming
 ### Day 3:
 ---
 - Solved 3 Problems on Hackerrank in algorithms section.
+
+### Day 4:
+---
+- Solved 3 Problems on Hackerrank (algorithms section) and GeeksforGeeks (arrays Data structures).
