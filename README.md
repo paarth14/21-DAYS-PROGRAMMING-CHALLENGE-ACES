@@ -20,4 +20,4 @@ To Practice Competitive Programming
 
 ### Day 5:
 ---
-- Solved some basic Problems on Strings as well as Arrays from GeeksforGeeks.
+- Solved 3 basic Problems on Strings as well as Arrays from GeeksforGeeks.
