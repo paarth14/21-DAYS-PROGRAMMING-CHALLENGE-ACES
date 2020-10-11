@@ -26,3 +26,6 @@ To Practice Competitive Programming
 ---
 - Solved 3 Problems on Strings as well as Arrays from GeeksforGeeks.
 
+### Day 7:
+---
+- Solved 3 Problems on Arrays from GeeksforGeeks.
