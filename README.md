@@ -29,3 +29,7 @@ To Practice Competitive Programming
 ### Day 7:
 ---
 - Solved 3 Problems on Arrays from GeeksforGeeks.
+
+### Day 8:
+---
+- Solved 3 Problems on Arrays.
