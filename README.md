@@ -33,3 +33,7 @@ To Practice Competitive Programming
 ### Day 8:
 ---
 - Solved 3 Problems on Arrays.
+
+### Day 9:
+---
+- Solved 3 Problems on Arrays and Strings.
