@@ -37,3 +37,7 @@ To Practice Competitive Programming
 ### Day 9:
 ---
 - Solved 3 Problems on Arrays and Strings.
+
+### Day 10:
+---
+- Solved 3 Problems on Arrays as well as on Hackerrank (Algorithms section).
