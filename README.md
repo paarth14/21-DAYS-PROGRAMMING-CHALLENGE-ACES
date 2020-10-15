@@ -41,3 +41,8 @@ To Practice Competitive Programming
 ### Day 10:
 ---
 - Solved 3 Problems on Arrays as well as on Hackerrank (Algorithms section).
+
+### Day 11:
+---
+- Solved a problem on Array and learned about Patterns in C++.
+
