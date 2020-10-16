@@ -46,3 +46,7 @@ To Practice Competitive Programming
 ---
 - Solved a problem on Array and learned about Patterns in C++.
 
+### Day 12:
+---
+- Solved some Pattern Printing programs in C++.
+
