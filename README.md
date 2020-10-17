@@ -50,3 +50,8 @@ To Practice Competitive Programming
 ---
 - Solved some Pattern Printing programs in C++.
 
+### Day 13:
+---
+- Solved 3 Pattern Printing programs (Triangle and Rectangle) in C++.
+
+
