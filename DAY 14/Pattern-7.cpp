@@ -9,6 +9,9 @@ int main()
     cout<<"Enter the number of levels: "<<endl;
     cin>>n;
     
+    //Rows = 1 to n
+    //Columns = 1 to row no.
+    
     for(int i=1; i<=n; i++)
     {
         for(int j=1; j<=i; j++)
