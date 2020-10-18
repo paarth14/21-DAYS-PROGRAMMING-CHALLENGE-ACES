@@ -54,4 +54,8 @@ To Practice Competitive Programming
 ---
 - Solved 3 Pattern Printing programs (Triangle and Rectangle) in C++.
 
+### Day 14:
+---
+- Solved 3 Unique Pattern Printing programs (Floyd's Triangle and Butterfly pattern) in C++.
+
 
