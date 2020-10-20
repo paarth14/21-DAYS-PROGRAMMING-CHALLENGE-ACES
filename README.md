@@ -1,5 +1,5 @@
 # 21-DAYS-PROGRAMMING-CHALLENGE-ACES
-To Practice Competitive Programming
+To Practice Competitive Programming, learning DSA and C++ Concepts.
 
 ### Day 1:
 ---
