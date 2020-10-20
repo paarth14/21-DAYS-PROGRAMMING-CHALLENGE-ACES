@@ -62,4 +62,8 @@ To Practice Competitive Programming
 ---
 - Solved 3 Unique Pattern Printing programs (0-1 and Rhombus pattern) in C++.
 
+### Day 16:
+---
+- Solved 3 Unique Pattern Printing programs (Star and Zig-Zag pattern) in C++.
+
 
