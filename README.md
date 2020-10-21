@@ -66,4 +66,9 @@ To Practice Competitive Programming, learning DSA and C++ Concepts.
 ---
 - Solved 3 Unique Pattern Printing programs (Star and Zig-Zag pattern) in C++.
 
+### Day 17:
+---
+- Solved problems on Arrays on GeeksforGeeks (Arrays Data Structure).
+
+
 
