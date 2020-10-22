@@ -70,5 +70,8 @@ To Practice Competitive Programming, learning DSA and C++ Concepts.
 ---
 - Solved 3 problems on Arrays on GeeksforGeeks (Arrays Data Structure).
 
+### Day 18:
+---
+- Solved some problems on Arrays on GeeksforGeeks (Arrays Data Structure).
 
 
